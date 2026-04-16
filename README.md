@@ -14,6 +14,8 @@ The Sales Dashboard provides a comprehensive analysis of sales performance acros
 
 ## Dashboard Components
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0a7c98de-f146-42ec-b518-34eb183851b3" />
+
 ### 1. Quarterly Performance Summary
 Displays key metrics for each quarter in an easy-to-read format:
 
