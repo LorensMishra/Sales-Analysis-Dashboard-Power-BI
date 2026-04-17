@@ -1,4 +1,6 @@
-# Sales Dashboard - README
+# Sales Dashboard
+
+<img width="922" height="406" alt="image" src="https://github.com/user-attachments/assets/9548ce3a-f862-4a8a-ad5c-44e0c60ba4c3" />
 
 ## Overview
 The Sales Dashboard provides a comprehensive analysis of sales performance across four quarters (Q1, Q2, Q3, Q4) with various metrics and visualizations to help stakeholders understand business performance and make data-driven decisions.
@@ -13,8 +15,6 @@ The Sales Dashboard provides a comprehensive analysis of sales performance acros
 - **Monthly Profit Trends**: Seasonal profit patterns throughout the year
 
 ## Dashboard Components
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0a7c98de-f146-42ec-b518-34eb183851b3" />
 
 ### 1. Quarterly Performance Summary
 Displays key metrics for each quarter in an easy-to-read format:
